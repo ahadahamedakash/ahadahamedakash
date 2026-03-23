@@ -1,6 +1,6 @@
 ![Ahad Ahamed Akash](./banner.png)
 
-<h1 align="left">👋 Hi, I'm Ahad Ahamed Akash</h1>
+<h1 align="left">👋 Hi, I am Ahad Ahamed Akash</h1>
 
 ###
 

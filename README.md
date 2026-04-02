@@ -4,7 +4,7 @@
 
 ###
 
-I'm a **Frontend Developer** dedicated to building modern, scalable web applications primarily with **React.js**, **Next.js**, **JavaScript** **TypeScript**, and **Tailwind CSS**.
+I'm a **Full Stack Developer** dedicated to building modern, scalable web applications primarily with **React.js**, **Next.js**, **JavaScript** **TypeScript**, and **Tailwind CSS**.
 
 **My focus?** Delivering high-performance, clean-architecture solutions that are responsive, accessible, and always put the user first. I've successfully built full-stack applications using the **MERN stack**, and I integrate modern UI libraries like **ShadCN UI** and **MUI** to build interactive interfaces. Need smooth interactions? I use **Framer Motion** & **GSAP** for captivating animations.
 

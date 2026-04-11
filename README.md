@@ -65,7 +65,10 @@ I'm a **Full Stack Developer** dedicated to building modern, scalable web applic
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahadahamedakash&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 📊 CP Stats:
+
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ahadahamed&theme=transparent&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/ahadahamed)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-ahadahamed-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/ahadahamed)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahadahamedakash&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)

@@ -64,6 +64,8 @@ I'm a **Full Stack Developer** dedicated to building modern, scalable web applic
 ![](https://nirzak-streak-stats.vercel.app/?user=ahadahamedakash&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahadahamedakash&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+# 📊 CP Stats:
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ahadahamed&theme=transparent&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/ahadahamed)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahadahamedakash&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)

@@ -59,12 +59,11 @@ I'm a **Full Stack Developer** dedicated to building modern, scalable web applic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahadahamedakash&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ahadahamedakash&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahadahamedakash&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats:
+<div align="center">![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ahadahamedakash&theme=github_dark)</div>
+<div align="center">![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahadahamedakash&layout=compact&theme=github_dark)</div>
 
-# 📊 CP Stats:
+## 📊 CP Stats:
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ahadahamed&theme=transparent&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/ahadahamed)
 

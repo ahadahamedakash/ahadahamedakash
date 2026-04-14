@@ -87,7 +87,7 @@ I'm a **Full Stack Developer** dedicated to building modern, scalable web applic
   <img 
     src="https://www.readmecodegen.com/api/leetcode-stats/ahadahamed?theme=dark&reputation=false&font=Roboto%2C+Arial%2C+Helvetica%2C+sans-serif" 
     alt="LeetCode Stats"
-    style="width:100%; max-width:400px;"
+    width="400"
   />
 </p>
 

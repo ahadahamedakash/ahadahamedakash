@@ -60,16 +60,29 @@ I'm a **Full Stack Developer** dedicated to building modern, scalable web applic
 </div>
 
 ## 📊 GitHub Stats:
-<div align="center">![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ahadahamedakash&theme=github_dark)</div>
-<div align="center">![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahadahamedakash&layout=compact&theme=github_dark)</div>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ahadahamedakash&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahadahamedakash&layout=compact&theme=github_dark" />
+</p>
 
 ## 📊 CP Stats:
+<p align="center">
+  <a href="https://codeforces.com/profile/ahadahamed">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ahadahamed&theme=transparent&disable_animations=false&show_icons=true&force_username=true" />
+  </a>
+</p>
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ahadahamed&theme=transparent&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/ahadahamed)
+<p align="center">
+  <a href="https://www.codechef.com/users/ahadahamed">
+    <img src="https://img.shields.io/badge/CodeChef-ahadahamed-brown?style=for-the-badge&logo=codechef" />
+  </a>
+</p>
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-ahadahamed-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/ahadahamed)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahadahamedakash&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ahadahamedakash&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)-->
 
 ###

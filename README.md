@@ -8,6 +8,8 @@ I'm a **Full Stack Developer** dedicated to building modern, scalable web applic
 
 **My focus?** Delivering high-performance, clean-architecture solutions that are responsive & accessible. I've successfully built full-stack applications using the **MERN stack**, and I integrate modern UI libraries like **ShadCN UI** and **MUI** to build interactive interfaces. Need smooth interactions? I use **Framer Motion** & **GSAP** for captivating animations.
 
+I enjoy solving complex problems and have recently been active in **Competitive Programming**, regularly practicing on LeetCode, Codeforces, and CodeChef to strengthen my problem-solving and algorithmic thinking.
+
 ###
 
 

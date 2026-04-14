@@ -70,6 +70,13 @@ I'm a **Full Stack Developer** dedicated to building modern, scalable web applic
 </p>
 
 ## 📊 CP Stats:
+
+<p align="center">
+  <a href="https://www.codechef.com/users/ahadahamed">
+    <img src="https://img.shields.io/badge/CodeChef-ahadahamed-brown?style=for-the-badge&logo=codechef" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://codeforces.com/profile/ahadahamed">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ahadahamed&theme=transparent&disable_animations=false&show_icons=true&force_username=true" />
@@ -77,10 +84,13 @@ I'm a **Full Stack Developer** dedicated to building modern, scalable web applic
 </p>
 
 <p align="center">
-  <a href="https://www.codechef.com/users/ahadahamed">
-    <img src="https://img.shields.io/badge/CodeChef-ahadahamed-brown?style=for-the-badge&logo=codechef" />
-  </a>
+  <img 
+    src="https://www.readmecodegen.com/api/leetcode-stats/ahadahamed?theme=dark&reputation=false&font=Roboto%2C+Arial%2C+Helvetica%2C+sans-serif" 
+    alt="LeetCode Stats"
+    style="width:100%; max-width:400px;"
+  />
 </p>
+
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahadahamedakash&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)-->

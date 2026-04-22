@@ -80,10 +80,10 @@ I enjoy solving complex problems and have recently been active in **Competitive 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⭐_Rating-1115-brown?style=flat-square" />
-  <img src="https://img.shields.io/badge/🏆_Highest-1115-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/🌍_Global-110903-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/🇧🇩_Country-2679-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/⭐_Rating-1119-brown?style=flat-square" />
+  <img src="https://img.shields.io/badge/🏆_Highest-1149-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌍_Global-108169-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🇧🇩_Country-2613-green?style=flat-square" />
 </p>
 
 <p align="center">

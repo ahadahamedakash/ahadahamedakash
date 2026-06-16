@@ -93,12 +93,16 @@ I enjoy solving complex problems and have recently been active in **Competitive 
 </p>
 
 <p align="center">
+    <img src="https://leetcard.jacoblin.cool/ahadahamed?theme=dark&font=Metrophobic" />
+</p>
+
+<!-- <p align="center">
   <img 
     src="https://www.readmecodegen.com/api/leetcode-stats/ahadahamed?theme=dark&reputation=false&font=Roboto%2C+Arial%2C+Helvetica%2C+sans-serif" 
     alt="LeetCode Stats"
     width="400"
   />
-</p>
+</p> -->
 
 
 <!-- ## 🏆 GitHub Trophies

@@ -168,10 +168,10 @@ I enjoy solving complex problems and have recently been active in **Competitive 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⭐⭐_Rating-1430-brown?style=flat-square" />
-  <img src="https://img.shields.io/badge/🏆_Highest-1430-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/🌍_Global-36907-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/🇧🇩_Country-1045-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/⭐⭐_Rating-1459-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/🏆_Highest-1459-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌍_Global-31685-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🇧🇩_Country-860-brown?style=flat-square" />
 </p>
 
 <p align="center">

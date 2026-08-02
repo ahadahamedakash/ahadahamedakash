@@ -170,8 +170,8 @@ I enjoy solving complex problems and have recently been active in **Competitive 
 <p align="center">
   <img src="https://img.shields.io/badge/⭐⭐_Rating-1468-green?style=flat-square" />
   <img src="https://img.shields.io/badge/🏆_Highest-1468-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/🌍_Global-29531-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/🇧🇩_Country-790-brown?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌍_Global-30037-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🇧🇩_Country-793-brown?style=flat-square" />
 </p>
 
 <p align="center">

@@ -4,19 +4,19 @@
 
 I build the full stack of a product, from the screen a customer taps to the database behind it, and I catch problems before users do.
 
-## What I do
+## 🚀 What I do:
 - **Ship features end to end, with the stack that fits the project.** I choose tools by what the problem needs, not by habit. My daily tools are React, Next.js, NestJS and PostgreSQL, and when a project needs something new, like Python for AI, I learn it and ship with it.
 - **Make systems safe to trust.** In Turvo, my multi-tenant booking platform, each business's data is isolated at the database level, and two people can never book the same slot.
 - **Keep teams moving.** At AB Software Solutions I built production interfaces, connected REST APIs, and worked directly with designers and backend developers.
 - **Move fast with AI, without getting sloppy.** I use Claude Code daily, but I write the spec first and review every line it produces.
 
-## What I'm adding next
+## 🌱 What I'm adding next:
 Python and FastAPI, so I can build AI features into products properly.
 
-## How I think
+## 🧠 How I think:
 I solve problems in C++ on Codeforces (Pupil) and CodeChef (2★), so I look for edge cases and performance problems before they reach production.
 
-## Open to work
+## 📫 Open to work:
 Full Stack Developer and Software Engineer roles, remote or international.
 
 <!--
@@ -182,7 +182,7 @@ I enjoy solving complex problems and have recently been active in **Competitive 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahadahamedakash&layout=compact&theme=github_dark" />
 </p>
 
-## 📊 CP Stats:
+## 🧩 Competitive Programming:
 
 <p align="center">
   <a href="https://www.codechef.com/users/ahadahamed">

@@ -12,32 +12,33 @@ I enjoy solving complex problems and have recently been active in **Competitive 
 
 ###
 
-
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ahadahamed) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahadahamedakash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahadahamed) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ahad-1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ahadahamedakash) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahadahamedakash@gmail.com) 
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ahadahamed) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahadahamedakash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahadahamed) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ahad-1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ahadahamedakash) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahadahamedakash@gmail.com)
 
 ## 💻 Tech Stack:
+
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo" />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
+  <img width="12" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo" />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo" />
@@ -58,23 +59,24 @@ I enjoy solving complex problems and have recently been active in **Competitive 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=appwrite" height="30" alt="appwrite logo" />
-  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=appwrite" height="30" alt="appwrite logo" />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amplify logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="gcp logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo" />
-  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo" />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="30" alt="kafka logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo" />
-  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=kafka" height="30" alt="kafka logo" /> -->
+  <!-- <img width="12" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo" /> -->
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo" />
+  <!-- <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo" /> -->
+  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo" />
   <img width="12" />
@@ -185,13 +187,12 @@ I enjoy solving complex problems and have recently been active in **Competitive 
 </p>
 
 <!-- <p align="center">
-  <img 
-    src="https://www.readmecodegen.com/api/leetcode-stats/ahadahamed?theme=dark&reputation=false&font=Roboto%2C+Arial%2C+Helvetica%2C+sans-serif" 
+  <img
+    src="https://www.readmecodegen.com/api/leetcode-stats/ahadahamed?theme=dark&reputation=false&font=Roboto%2C+Arial%2C+Helvetica%2C+sans-serif"
     alt="LeetCode Stats"
     width="400"
   />
 </p> -->
-
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahadahamedakash&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)-->

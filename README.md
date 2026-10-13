@@ -1,5 +1,25 @@
 ![Ahad Ahamed Akash](./banner.png)
 
+# Hi, I'm Ahad Ahamed Akash 👋
+
+I build the full stack of a product, from the screen a customer taps to the database behind it, and I catch problems before users do.
+
+## What I do
+- **Ship features end to end, with the stack that fits the project.** I choose tools by what the problem needs, not by habit. My daily tools are React, Next.js, NestJS and PostgreSQL, and when a project needs something new, like Python for AI, I learn it and ship with it.
+- **Make systems safe to trust.** In Turvo, my multi-tenant booking platform, each business's data is isolated at the database level, and two people can never book the same slot.
+- **Keep teams moving.** At AB Software Solutions I built production interfaces, connected REST APIs, and worked directly with designers and backend developers.
+- **Move fast with AI, without getting sloppy.** I use Claude Code daily, but I write the spec first and review every line it produces.
+
+## What I'm adding next
+Python and FastAPI, so I can build AI features into products properly.
+
+## How I think
+I solve problems in C++ on Codeforces (Pupil) and CodeChef (2★), so I look for edge cases and performance problems before they reach production.
+
+## Open to work
+Full Stack Developer and Software Engineer roles, remote or international.
+
+<!--
 <h1 align="left">👋 Hi, I am Ahad Ahamed Akash</h1>
 
 ###
@@ -15,6 +35,7 @@ I enjoy solving complex problems and have recently been active in **Competitive 
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ahadahamed) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahadahamedakash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahadahamed) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ahad-1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ahadahamedakash) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahadahamedakash@gmail.com)
+-->
 
 ## 💻 Tech Stack:
 

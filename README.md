@@ -14,7 +14,7 @@ I build the full stack of a product, from the screen a customer taps to the data
 Python and FastAPI, so I can build AI features into products properly.
 
 ## 🧠 How I think:
-I solve problems in C++ on Codeforces (Pupil) and CodeChef (2★), so I look for edge cases and performance problems before they reach production.
+I solve problems in C++ on Codeforces (Pupil) and CodeChef (3★), so I look for edge cases and performance problems before they reach production.
 
 ## 📫 Open to work:
 Full Stack Developer and Software Engineer roles, remote or international.
